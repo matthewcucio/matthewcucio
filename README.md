@@ -1,6 +1,6 @@
 ## Hi there, I'm Matthew 👋
 
-### My stats ⭐
+### My Stats ⭐
 
 <div align="center">
 <img alt="Matthew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=matthewcucio&show_icons=true&theme=transparent"/>
@@ -8,4 +8,15 @@
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Yoon profile views](https://u8views.com/api/v1/github/profiles/119479946/views/day-week-month-total-count.svg)](https://u8views.com/github/matthewcucio)
+<p align="center">
+  <a href="https://u8views.com/github/matthewcucio">
+    <img src="https://u8views.com/api/v1/github/profiles/119479946/views/day-week-month-total-count.svg" alt="Yoon profile views" />
+  </a>
+</p>
+
+### My Streak Stats 🔥
+<div align="center">
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewcucio&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</p>
+</div>
